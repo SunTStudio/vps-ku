@@ -18,7 +18,7 @@ export default async function Home() {
               exercitationem adipisci ducimus hic omnis.
             </p>
           </div>
-          <PostList posts={posts.data}/>
+          {/* <PostList posts={posts.data}/> */}
         </>
       </main>
     </div>
